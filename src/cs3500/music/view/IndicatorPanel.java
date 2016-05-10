@@ -6,10 +6,6 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * Created by leyiqiang on 11/23/15.
- */
-
-/**
  * to represent an IndicatorPanel
  */
 public class IndicatorPanel extends JPanel {

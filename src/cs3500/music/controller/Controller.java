@@ -15,10 +15,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Created by leyiqiang on 11/22/15.
- */
-
-/**
  * to represent a Controller
  */
 public final class Controller {

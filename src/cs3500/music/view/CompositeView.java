@@ -10,10 +10,6 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 /**
- * Created by leyiqiang on 11/23/15.
- */
-
-/**
  * to represent the CompositeView
  */
 public class CompositeView {
